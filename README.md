@@ -1,4 +1,4 @@
-## Olá, eu sou a Igor!
+## Olá, eu sou o Igor!
 
 <div align="center">
   <a href="https://github.com/leonardoigor">
